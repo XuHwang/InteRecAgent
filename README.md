@@ -1,3 +1,5 @@
+
+
 # InteRecAgent
 Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations
 
@@ -11,7 +13,7 @@ If you think the repo is helpful, please kindly cite our paper:
 
 ```bibtex
 @article{huang2023recommender,
-  title={Recommender ai agent: Integrating large language models for interactive recommendations},
+  title={Recommender AI Agent: Integrating large language models for interactive recommendations},
   author={Huang, Xu and Lian, Jianxun and Lei, Yuxuan and Yao, Jing and Lian, Defu and Xie, Xing},
   journal={arXiv preprint arXiv:2308.16505},
   year={2023}
